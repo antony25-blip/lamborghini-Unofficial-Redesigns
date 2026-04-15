@@ -137,7 +137,7 @@ export default function Home() {
           playsInline 
           className="absolute top-0 left-0 w-full h-full object-cover z-0 brightness-[1.05] contrast-[1.15] saturate-[1.2]"
         >
-          <source src="/HeroSection.mp4" type="video/mp4" />
+          <source src="/lamborghini-Unofficial-Redesigns/HeroSection.mp4" type="video/mp4" />
         </video>
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-[#111]/90 to-transparent z-10" />
         
